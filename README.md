@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kakunuri-Balakrishna
 - 👀 I’m interested in ...frontend developer
 - 🌱 I’m currently learning ...in crio.do. react.js and javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...as a web developer
 - 📫 How to reach me ...kittu.kakunuri@gmail.com and 7285912412 and www.linkedin.com/in/kakunuri-balakrishna-6a819a230
 
 <!---
